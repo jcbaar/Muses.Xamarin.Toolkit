@@ -5,7 +5,7 @@ using Xamarin.Forms;
 namespace Muses.Xamarin.Toolkit.Behaviors
 {
     /// <summary>
-    /// Validation behavior which checks if the input on a Entry view is a valig email
+    /// Validation behavior which checks if the input on a Entry view is a valid email
     /// address.
     /// </summary>
     public class EmailValidatorBehavior : BaseValidatorBehavior<Entry>

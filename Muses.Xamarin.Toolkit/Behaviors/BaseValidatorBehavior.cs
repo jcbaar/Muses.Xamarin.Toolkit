@@ -3,7 +3,7 @@
 namespace Muses.Xamarin.Toolkit.Behaviors
 {
     /// <summary>
-    /// A base class for validation behaviors. The this class defined two bind-able
+    /// A base class for validation behaviors. The this class defines two bind-able
     /// properties which describe the valid and the invalid state of the validation.
     /// Derived classes should set the properties appropriately.
     /// </summary>
