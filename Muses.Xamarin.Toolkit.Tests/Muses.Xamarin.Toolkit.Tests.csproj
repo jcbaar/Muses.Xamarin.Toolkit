@@ -67,6 +67,7 @@
     <Compile Include="BaseValidatorBehaviorTests.cs" />
     <Compile Include="EmailValidatorBehaviorTests.cs" />
     <Compile Include="InvertBooleanConverterTests.cs" />
+    <Compile Include="MaxLengthValidatorBehaviorTests.cs" />
     <Compile Include="NotEmptyBehaviorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="Behaviors\BaseValidatorBehavior.cs" />
     <Compile Include="Behaviors\EmailValidatorBehavior.cs" />
+    <Compile Include="Behaviors\MaxLengthValidatorBehavior.cs" />
     <Compile Include="Behaviors\NotEmptyBehavior.cs" />
     <Compile Include="Converters\InvertBooleanConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
